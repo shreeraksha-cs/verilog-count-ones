@@ -105,4 +105,5 @@ GitHub: [@shreeraksha-cs](https://github.com/shreeraksha-cs)
 
 ---
 
-⭐ If you liked this project, don’t forget to star the repo!
+⭐ If you found this project useful or interesting, please consider giving it a ⭐ star!
+
