@@ -7,7 +7,7 @@ The objective is to design and implement a **combinational logic circuit** that 
 
 ## Objective
 
-> Design and implement a digital circuit in Verilog HDL that takes an 8-bit input and outputs the total number of bits that are set to 1.
+Design and implement a digital circuit in Verilog HDL that takes an 8-bit input and outputs the total number of bits that are set to 1.
 
 ---
 
