@@ -17,7 +17,6 @@ The objective is to design and implement a **combinational logic circuit** that 
 |---------------|---------------------------------------------|
 | `count.v`     | Verilog module using Half Adders to process 8-bit input |
 | `count_tb.v`  | Testbench with various input cases & waveform dumping |
-| `.vcd`        | Generated simulation waveform (ignored via `.gitignore`) |
 | `.gitignore`  | Ensures simulation dump files like `.vcd` are not tracked |
 
 ---
